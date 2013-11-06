@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Placemark>
+	<name>Polygon</name>
+	<open>1</open>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<coordinates>
+					139.88033,35.63295,0 139.88031,35.63293,0 139.88031,35.6329,0 139.88033,35.63287,0 139.88036,35.63286,0 139.8804,35.63286,0 139.88043,35.63288,0 139.88045,35.6329,0 139.88044,35.63295,0 139.88041,35.63296,0 139.88036,35.63297,0 139.88033,35.63295,0 
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+		<innerBoundaryIs>
+			<LinearRing>
+				<coordinates>
+					139.88038,35.63295,0 139.88036,35.63294,0 139.88034,35.63292,0 139.88034,35.6329,0 139.88036,35.63289,0 139.88039,35.63288,0 139.88041,35.6329,0 139.88042,35.63292,0 139.8804,35.63294,0 139.88038,35.63295,0 
+				</coordinates>
+			</LinearRing>
+		</innerBoundaryIs>
+	</Polygon>
+</Placemark>
+</kml>
