@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder>
+	<name>ScreenOcerlay</name>
+	<open>1</open>
+	<Style>
+		<ListStyle>
+			<listItemType>radioFolder</listItemType>
+			<bgColor>00ffffff</bgColor>
+			<maxSnippetLines>2</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<ScreenOverlay>
+		<name>overlayXY:00,00 screenXY:00,00</name>
+		<visibility>0</visibility>
+		<Icon>
+			<href>https://raw.github.com/mapconcierge/kml_reference/master/img/Sample4ScreenOverlay.png</href>
+		</Icon>
+		<overlayXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+		<screenXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+		<rotationXY x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		<size x="0" y="0" xunits="fraction" yunits="fraction"/>
+	</ScreenOverlay>
+	<ScreenOverlay>
+		<name>overlayXY:10,10 screenXY:10,10</name>
+		<visibility>0</visibility>
+		<Icon>
+			<href>https://raw.github.com/mapconcierge/kml_reference/master/img/Sample4ScreenOverlay.png</href>
+		</Icon>
+		<overlayXY x="1" y="1" xunits="fraction" yunits="fraction"/>
+		<screenXY x="1" y="1" xunits="fraction" yunits="fraction"/>
+		<rotationXY x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		<size x="0" y="0" xunits="fraction" yunits="fraction"/>
+	</ScreenOverlay>
+	<ScreenOverlay>
+		<name>overlayXY:05,05 screenXY:05,05</name>
+		<visibility>0</visibility>
+		<Icon>
+			<href>https://raw.github.com/mapconcierge/kml_reference/master/img/Sample4ScreenOverlay.png</href>
+		</Icon>
+		<overlayXY x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		<screenXY x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		<rotationXY x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		<size x="0" y="0" xunits="fraction" yunits="fraction"/>
+	</ScreenOverlay>
+	<ScreenOverlay>
+		<name>overlayXY:00,10 screenXY:00,10</name>
+		<visibility>0</visibility>
+		<Icon>
+			<href>https://raw.github.com/mapconcierge/kml_reference/master/img/Sample4ScreenOverlay.png</href>
+		</Icon>
+		<overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
+		<screenXY x="0" y="1" xunits="fraction" yunits="fraction"/>
+		<rotationXY x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		<size x="0" y="0" xunits="fraction" yunits="fraction"/>
+	</ScreenOverlay>
+	<ScreenOverlay>
+		<name>overlayXY:10,00 screenXY:10,00</name>
+		<Icon>
+			<href>https://raw.github.com/mapconcierge/kml_reference/master/img/Sample4ScreenOverlay.png</href>
+		</Icon>
+		<overlayXY x="1" y="0" xunits="fraction" yunits="fraction"/>
+		<screenXY x="1" y="0" xunits="fraction" yunits="fraction"/>
+		<rotationXY x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		<size x="0" y="0" xunits="fraction" yunits="fraction"/>
+	</ScreenOverlay>
+</Folder>
+</kml>
