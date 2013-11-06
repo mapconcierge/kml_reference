@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<GroundOverlay>
+	<name>GroundOverlay_byOpenStreetMap</name>
+	<open>1</open>
+	<Icon>
+		<href>http://otile1.mqcdn.com/tiles/1.0.0/osm/5/28/12.png</href>
+	</Icon>
+	<LatLonBox>
+		<north>41.04115727432772</north>
+		<south>32.1132634124619</south>
+		<east>146.3177624908386</east>
+		<west>134.952558721569</west>
+	</LatLonBox>
+</GroundOverlay>
+</kml>
